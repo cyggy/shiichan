@@ -1,0 +1,17 @@
+forumname=My Personal Channel
+urltoforum=http://kamineko/~ashitaka/shiichan/
+encoding=utf8
+skin=boston
+image=
+boardname=(Unnamed Board)
+nameless=Anonymous
+aborn=Aborn!
+maxres=1000
+haship=
+namefield=
+postsperpage=40
+fpthreads=10
+fpposts=5
+fplines=10
+additionalthreads=10
+posticons=on

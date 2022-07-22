@@ -1,0 +1,2 @@
+<tr><td colspan="2" class="h">The <%FEW%> newest replies are shown below.
+<a href="<%READ%>">Read this thread from the beginning</a></td></tr>

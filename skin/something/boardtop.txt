@@ -1,0 +1,13 @@
+<html><head><title><%FORUMNAME%> - <%BOARDNAME%></title>
+<META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE">
+<%ENCODING%>
+<link rel="stylesheet" href="<%FORUMURL%>skin/something/style.css">
+<script type="text/javascript">function quote(b,a) { var
+v=eval("document."+a+".mesg"); v.value+=">>"+b+"\n"; v.focus() }</script>
+</head>
+<base href="<%FORUMURL%>">
+<body>
+<b><a href="."><%FORUMNAME%></a> &gt; <%BOARDNAME%></b>
+<table class="threads"><tr><th><%POST%></th>
+<th width="100%">Thread</th><th nowrap>Author</th><th
+nowrap>Posts</th><th nowrap>Last Post</th></tr>

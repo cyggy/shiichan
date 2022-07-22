@@ -1,0 +1,24 @@
+<html><head><title><%FORUMNAME%> - <%THREADNAME%> (Add Reply)</title>
+<link rel="stylesheet" href="<%FORUMURL%>skin/boston/style.css">
+<script type="text/javascript">function quote(b,a) { var
+v=eval("document."+a+".mesg"); v.value+=">>"+b+"\n"; v.focus() }</script>
+</head>
+<base href="<%FORUMURL%>">
+<body>
+<h1><a href="."><%FORUMNAME%></a></h1>
+<h2><a href="<%BOARDURL%>"><%BOARDNAME%></a></h2>
+<h3><a href="read.php/<%BOARDURL%>/<%THREADID%>/"><%THREADNAME%></a></h3>
+<h4>Add Reply</h4>
+<%STARTFORM%>
+<table class="addthread">
+<td class="number"><a>Add</a>Reply</td>
+<td class="textarea">
+Name <input name="name" size="20" <%NAMECOOKIE%>>
+- Password <span>(admins only)</span>
+<input type="password" name="pass" size="20">
+<br><%TEXTAREA%><br>
+</td></tr>
+</table>
+</form>
+</body>
+</html>

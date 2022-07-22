@@ -1,0 +1,7 @@
+<dt><%NUMPOSTS%> <small>Add Reply</small>
+<dd><%TEXTAREA%>
+</dl>
+</form>
+<hr>
+<a href="http://shii.org/shiichan">Shiichan</a> read.php
+ <%SHIIVERSION%><br>

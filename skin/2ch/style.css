@@ -1,0 +1,13 @@
+body { font-family: Verdana,Tahoma,sans-serif } table { width: 100%; background: #ccc; border-spacing: 1px }
+dd { margin: 1em }
+
+td,th { vertical-align: top }
+.oddid td, .evenid td { font-size: x-small; border-bottom: 1px solid #ccc }
+.add { font-weight: normal }
+.add span { font-size: x-small }
+.odd td, .oddid td { background: #DFDFDF }
+.even td, .evenid td, .threads td { background: #F1F1F1 }
+.foot { text-align: center; font-size: x-small }
+.threads { font-size: small }
+
+.fpthread { background: #ffffff }

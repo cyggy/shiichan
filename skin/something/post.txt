@@ -1,0 +1,2 @@
+<tr class="<%CSSHELP%>"><td><b><%NUMBER%></b><br><small><%NAME%><%TRIP%></small></td><td><%MESSAGE%></td></tr>
+<tr class="<%CSSHELP%>id"><td><%DATE%></td><td><%ID%></td></tr>

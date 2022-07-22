@@ -1,0 +1,25 @@
+<html><head><title><%FORUMNAME%> - New Thread</title>
+<%ENCODING%>
+<link rel="stylesheet" href="<%FORUMURL%>skin/something/style.css">
+<script type="text/javascript">function quote(b,a) { var
+v=eval("document."+a+".mesg"); v.value+=">>"+b+"\n"; v.focus() }</script>
+</head>
+<base href="<%FORUMURL%>">
+<body>
+<b><a href="."><%FORUMNAME%></a> &gt; <a href="<%BOARDURL%>"><%BOARDNAME%></a>
+&gt; New Thread</b>
+<table>
+<%STARTFORM%>
+<tr class="odd"><th>Subject</th><td colspan="3">
+<input name="subj" maxlength="45" size="40"></td></tr>
+<tr class="even"><th>Post icon</th><td colspan="3"><%POSTICONS%></td></tr>
+<tr class="odd"><th>Post</th><td colspan="3"><%TEXTAREA%></td></tr>
+<tr><th colspan="4">Optional fields</th></tr>
+<tr class="even">
+<td>Name</td><td><input name="name" size="20" <%NAMECOOKIE%>></td>
+<td>Password <span>(admins only)</span></td><td>
+<input type="password" name="pass" size="20"></td></tr>
+</form>
+</table>
+</body>
+</html>

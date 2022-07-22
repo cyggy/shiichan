@@ -1,0 +1,43 @@
+body { background: #ffe; color: #000; font-family: Verdana,Tahoma,sans-serif; margin: 0 }
+table { width: 100%; border-spacing: 1em }
+td { vertical-align: top }
+
+a { color: #550 }
+.number a:first-child { font: bold italic xx-large serif; color: #000; text-decoration: none; display: block }
+.number b { color: red }
+.number a:hover, .odd a, .even a { color: #555; text-decoration: underline }
+.number { text-align: right; font: x-small serif }
+.odd, .even { margin: 0 }
+.odd p, .even p { margin: 5px}
+.q { font-size: small; margin: 0; padding: 1px; background: #fca }
+.odd { background: #ffe } .even { background: #ffe }
+.threads { font-size: small; border-spacing: 1px; background: #ffe; border: 3px solid #ea8 }
+.threads input { background: #ea8; color: #fff; border: 1px solid #fff; font-weight: bold }
+.threads input[type="submit"]:hover { background: #fff; color: #ea8; border: 1px solid #ea8 }
+.threads img {display: table; margin-left: auto; margin-right: auto; border: 0 }
+.threads th { background: #ea8; color: #fff; font: serif; padding: 2px }
+.threads tr { background: #f9e9dd }
+.threads td { vertical-align: middle; padding: 0 5px }
+.threads tr a { color: #000 }
+
+.fpthread h3, .fpthread h3 a { display: block; margin: 0; color: #cc1105; font-size: x-large; text-decoration: underline }
+.fpthread table { background: #f9e9dd; border: 1px solid #fca }
+
+input,textarea { border: 1px solid #000; background: #eee }
+input[type="submit"]:hover { border: 1px solid #00f; background: #fff }
+.textarea span { font-size: x-small }
+
+.foot { margin: 0; text-align: center; font-size: x-small }
+.pages { padding: 5px; border: 1px dotted #555; font-size: x-small }
+.pages a { color: #000; padding: 0 1px }
+/*h1 a, h2 a { color: #000; text-decoration: none } */
+h1, h2, h3, h4 { display: table-cell; padding: 0 5px; font-size: medium }
+h1 { /*background: #d86;*/ font-size: large }
+h2 { background: #ea8; }
+h3 { background: #fca; font-size: small }
+h4 { font-size: x-small }
+
+
+.addthread { padding: 5px; border: 3px solid #fca }
+.posticons { display: table-cell; padding:5px; margin: 5px; border: 1px solid
+#000; background: #fca }

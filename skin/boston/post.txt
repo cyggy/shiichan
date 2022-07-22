@@ -1,0 +1,4 @@
+<tr><td class="number"><%NUMBER%><%ID%></td><td class="<%CSSHELP%>">
+<div class="q"><span class="n"><%NAME%><%TRIP%></span> at <%DATE%></div>
+<p><%MESSAGE%>
+</td></tr>

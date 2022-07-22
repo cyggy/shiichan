@@ -1,0 +1,13 @@
+<!DOCTYPE HTML SYSTEM "http://www.w3.org/TR/ REC-html40/strict.dtd">
+<html><head><title><%FORUMNAME%> - <%THREADNAME%></title>
+<%ENCODING%>
+<link rel="stylesheet" href="<%FORUMURL%>skin/2ch/style.css">
+<script type="text/javascript">function quote(b,a) { var
+v=eval("document."+a+".mesg"); v.value+=">>"+b+"\n"; v.focus() }</script>
+</head>
+<base href="<%FORUMURL%>">
+<body>
+<%THREADICON%> <b><%THREADNAME%></b>
+<hr><center><%PAGES%><br>Back to <a href="<%BOARDURL%>"><%BOARDNAME%></a>
+</center><hr><dl>
+<%STARTFORM%>

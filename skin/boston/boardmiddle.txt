@@ -1,0 +1,6 @@
+<tr><td colspan="5"><a href="list.php?bbs=<%BOARDURL%>">List All
+Threads</a> - <a href="post.php?bbs=<%BOARDURL%>&shiichan=writenew">New
+Thread</a></td></tr>
+</table>
+<table
+class="fpthread"><tr><td><table><tr><td><%HEADTXT%></td></tr></table></td></tr></table>

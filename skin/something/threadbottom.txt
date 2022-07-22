@@ -1,0 +1,9 @@
+<tr><th><%NUMPOSTS%><br><small>Add Reply</small></th>
+<th class="add"><%TEXTAREA%></th></tr></table></form>
+<p>
+<div class="foot">Powered by: <a href="http://shii.org/shiichan">Shiichan</a>
+Version <%SHIIVERSION%><br>
+The contents of this page are asserted to be in the public domain by the
+posters.<br>The administrators claim no responsibility for thread content.
+<%ADMINLINK%></div>
+</body></html>

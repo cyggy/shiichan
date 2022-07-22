@@ -1,0 +1,9 @@
+img { float:right } * { font-family: Tahoma,sans-serif }
+h1,h2 { border: 2px solid #faf; background: #fdf; font-size: medium }
+h2 { margin-bottom: 0; display: table }  ul { list-style-type: none; margin: 0 }
+a { border: 2px solid #aaf; color: #00f; background: #ddf; text-decoration:
+none } a:hover { background: #aaf } li { padding: 3px }
+input,select,textarea { border: 2px solid #aaf; background: #ddf; }
+input[type="submit"] { color: red }
+input[type="submit"]:hover { background: #fdd; border: 2px solid #faa }
+input[type="submit"]:active { background: #faa }

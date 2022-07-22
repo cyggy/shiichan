@@ -1,0 +1,4 @@
+<tr><td class="number"><a><%NUMPOSTS%></a><a href="<%REPLYLINK%>">Add
+Reply</a></td>
+<td class="textarea"><%TEXTAREA%></td></tr></table></form>
+</table>

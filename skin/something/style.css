@@ -1,0 +1,14 @@
+body { font-family: Verdana,Tahoma,sans-serif } table { width: 100%; background: #ccc; border-spacing: 1px }
+td,th { vertical-align: top }
+.oddid td, .evenid td { font-size: x-small; border-bottom: 1px solid #ccc }
+th, th a { text-align: left; color: #fff; background: #069 }
+.add { font-weight: normal }
+.add span { font-size: x-small }
+.odd td, .oddid td { background: #DFDFDF }
+.even td, .evenid td, .threads td { background: #F1F1F1 }
+.foot { text-align: center; font-size: x-small }
+.pages { float: right; background: #069; color: #fff; border: 2px solid #39b }
+.pages a { color: #fff; background: #39b; border: 2px solid #6be }
+.threads { font-size: small }
+.h { background: #fff; font-size: small }
+.fpthread { margin: 1em auto; width: 80%; background: #fff; border: 1px solid #069 }

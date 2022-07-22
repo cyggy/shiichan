@@ -1,0 +1,4 @@
+<%STARTFORM%>
+<table class="fpthread"><tr><td>
+<b><%THREADNAME%></b>
+<table><tr><th width="175">Author</th><th>Post</th></tr>

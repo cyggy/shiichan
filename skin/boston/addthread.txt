@@ -1,0 +1,29 @@
+<html><head><title><%FORUMNAME%> - <%THREADNAME%> (Add Reply)</title>
+<%ENCODING%>
+<link rel="stylesheet" href="<%FORUMURL%>skin/boston/style.css">
+<script type="text/javascript">function quote(b,a) { var
+v=eval("document."+a+".mesg"); v.value+=">>"+b+"\n"; v.focus() }</script>
+</head>
+<base href="<%FORUMURL%>">
+<body>
+<%STARTFORM%>
+<table>
+<h1><a href="."><%FORUMNAME%></a></h1>
+<h2><a href="<%BOARDURL%>"><%BOARDNAME%></a></h2>
+<h3>Add Thread</h3>
+<table class="addthread">
+<tr>
+<td class="number"><a>New</a>Thread</td>
+<td class="textarea">
+<b>Subject</b> <input name="subj" maxlength="45" size="40"><br>
+<i>Name (optional) <input name="name" size="20" <%NAMECOOKIE%>> - Password
+<span>(admins only)</span> <input type="password" name="pass" size="20"></i>
+<div class="posticons">
+Choose a posticon: <%POSTICONS%><br>
+</div>
+<%TEXTAREA%>
+</td></tr>
+</table>
+</form>
+</body>
+</html>

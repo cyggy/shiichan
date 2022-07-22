@@ -1,0 +1,4 @@
+<tr><th><a><%NUMPOSTS%></a><br><a href="<%REPLYLINK%>"
+title="Advanced reply">Add Reply</a></th>
+<th><%TEXTAREA%></th></tr></table></form>
+</table>
